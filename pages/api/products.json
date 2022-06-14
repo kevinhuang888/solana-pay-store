@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Oncle Jazz pack",
+    "price": "3.29",
+    "description": "Get the Oncle Jazz pack for 1.29! Includes: Tailwhip, Numb, Say Can You Hear, Seven, and Show Me How",
+    "image_url": "https://f4.bcbits.com/img/a3970465110_10.jpg",
+    "filename": "OncleJazz.zip",
+    "hash": "QmTdtxsKqjVSvwrxbdVTuTs49RSuVfA8z9mJ3wZidpsRef"
+  },
+  {
+    "id": 2,
+    "name": "Low End Theory",
+    "price": "2.25",
+    "image_url": "https://www.vibe.com/wp-content/uploads/2016/09/tribe-low-end-1474739140.jpg?w=1024",
+    "description": "Get the Low End Theory pack for 2.25! Includes: Buggin' Out, Check the Rhime, Jazz (We've got), and Scenario",
+    "filename": "Buggin' Out.mp3",
+    "hash": "QmcZdKs6YbQifWvpX1j9NfAJVVcMVSgDEGxWgXDmYJBhgj"
+  }
+]
